@@ -3,7 +3,9 @@ output_dir: "."
 navbar:
   title: "My Website"
   left:
-    - text: "Home"
+    - text: "Buoy Home"
       href: index.html
-    - text: "About"
+    - text: "About Buoy"
       href: about.html
+     - text: "Bill's Homepage"
+      href: https://wlperry.github.io/index.html
