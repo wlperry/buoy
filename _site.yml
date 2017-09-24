@@ -1,11 +1,11 @@
 name: "buoy"
 output_dir: "."
 navbar:
-  title: "My Website"
+  title: "The Buoy Deployment"
   left:
     - text: "Buoy Home"
       href: index.html
     - text: "About Buoy"
       href: about.html
-     - text: "Bill's Homepage"
+    - text: "Bill's Homepage"
       href: https://wlperry.github.io/index.html
