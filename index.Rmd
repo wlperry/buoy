@@ -3,6 +3,7 @@ title: "2016 Buoy Deployment in Lake Tanganyika"
 author: "Bill Perry"
 date: "2/14/2017"
 output: html_document
+      css: perrycustom.css
 ---
 
     
