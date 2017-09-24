@@ -68,3 +68,12 @@ height="500px" width="500px" border="1" style="PADDING-TOP: 5px" style="PADDING-
 
 Runway, lights of houses, stars - nope - all the fishermen are out for the night attracting fish to net. They won't come in till after sunrise.
 
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-88373117-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'UA-88373117-1');
+</script>

@@ -254,6 +254,17 @@ height="500px" width="500px" border="1" style="PADDING-TOP: 5px" style="PADDING-
 
 This was the best dressed crew on Lake Tanganyika.
 
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-88373117-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'UA-88373117-1');
+</script>
+
+
 <br>
 <img align="center" img src="images/buoy_day_9_b-37.jpg" 
 height="500px" width="500px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>

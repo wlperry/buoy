@@ -182,6 +182,15 @@ height="600px" width="600px" border="1" style="PADDING-TOP: 5px" style="PADDING-
 So sometimes you start to get frustrated with the data logger - and it is just better to put it to bed.
 
 
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-88373117-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'UA-88373117-1');
+</script>
 
 
 
